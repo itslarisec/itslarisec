@@ -1,5 +1,5 @@
-#oi, eu sou a Larissa 👋
-##estudante de design gráfico na UFBA, baseada em **Salvador, BA**.
+oi, eu sou a Larissa 👋
+estudante de design gráfico na UFBA, baseada em **Salvador, BA**.
 ---
  
 ### 🛠️ ferramentas
