@@ -17,8 +17,5 @@ estudante de design gráfico na UFBA, baseada em **Salvador, BA**.
 o portfólio completo e o processo por trás de cada projeto estão no meu site.
  
 ---
- 
-### 📬 contato
-`larissa.secco.design@protonmail.com`
- 
+
 > *"design é forma de pensar."*
